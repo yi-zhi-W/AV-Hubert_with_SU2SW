@@ -166,7 +166,7 @@ class VSR_PTD(FairseqEncoderDecoderModel):
         }
 
         src_pth = os.path.dirname(os.path.realpath(__file__))
-        avhubert_pth = "/nfs3/wyz/muc-vsr/muc-vsr/src/pretrained_models/encoder/large_vox_iter5.pt"
+        avhubert_pth = "large_vox_iter5.pt"
         
         if cfg.w2v_args is None:
             state = checkpoint_utils.load_checkpoint_to_cpu(
