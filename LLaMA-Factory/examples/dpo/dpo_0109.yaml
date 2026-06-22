@@ -1,0 +1,57 @@
+### model
+model_name_or_path: /nfs4/wyz/merged_qwen2audio/lora_5l_merged
+trust_remote_code: true
+
+### method
+stage: dpo
+do_train: true
+finetuning_type: lora
+
+# --- 1. 显式指定 Target，避开 audio encoder ---
+lora_target: all
+
+# --- 2. 约束参数 ---
+# 0.2 在全量数据上可能稍显宽松，建议 0.3，既能学到东西又能防崩
+pref_beta: 0.2   
+pref_loss: sigmoid
+
+### dataset
+# 确保这里指的是你包含 ~4万条数据的那个数据集注册名
+dataset: dpo_ug_cer>010
+template: qwen2_audio
+cutoff_len: 2048
+overwrite_cache: true
+preprocessing_num_workers: 16
+dataloader_num_workers: 4
+
+### output
+output_dir: saves/dpo/dpo_0109_dpo_ug_cer>010_
+logging_steps: 10
+# 4万条数据 / (1 * 16) = 每 epoch 2500 步
+# 建议每 200 步保存一次，方便回滚
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: none
+
+### train
+per_device_train_batch_size: 1
+
+# --- 3. 梯度累积：关键 ---
+# 4万条数据必须用大 Batch Size 来平滑梯度噪声
+# 1 * 16 = 16 的有效 Batch Size 是安全的
+gradient_accumulation_steps: 16   
+
+# --- 4. 学习率：关键 ---
+# 5e-6 必崩。1e-6 在小数据上不动，但在大数据上可能会引起震荡。
+# 推荐 8e-7：这是一个折中值，既能推动 4万条数据的学习，又不至于炸毁权重。
+learning_rate: 8.0e-7             
+
+num_train_epochs: 1.0  # 全量数据 1 个 epoch 绝对够了，甚至 0.5-0.7 就可能收敛
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+gradient_checkpointing: true

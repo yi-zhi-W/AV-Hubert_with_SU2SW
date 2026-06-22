@@ -1,0 +1,1702 @@
+[
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_051_104049_004.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_051_104049_007.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_070_205515_015.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_070_205515_009.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_032_165340_020.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_032_165315_015.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_058_62_018.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_064_011449_002.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_043_081843_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_029_114505_014.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_063_090131_001.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_041_56__23_07_13_H3_velero1_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_012_063301_002.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_012_063301_001.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_017_161634_011.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_051_104049_003.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_054_154210_017.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_004_005033_005.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_028_43_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_027_69__23_07_13_H2_costaVoyager_012.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_091_004426_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_041_110230_003.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_088_232237_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_088_232237_001.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_099_134000_043.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_013_020139_016.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_037_184302_020.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_001_80__04_10_12_adricristuy_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_014_035818_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_075_143212_005.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_050_130618_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_012_50__23_07_13_H3_lancha1_001.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_037_104632_034.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_053_091542_034.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_028_045829_015.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_028_045829_014.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_013_51__23_07_13_H3_lancha2_interf_003.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_013_51__23_07_13_H3_lancha2_interf_007.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_007_113853_022.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_007_113853_014.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_022_49__23_07_13_H1_bateero4_014.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_028_43_001.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_015_072235_032.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_015_041322_022.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_022_005608_037.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_022_005608_040.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_047_101404_018.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_012_063301_002.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_007_042800_020.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_007_042800_016.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_012_50__23_07_13_H3_lancha1_004.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_012_50__23_07_13_H3_lancha1_002.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_012_50__23_07_13_H3_lancha1_002.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_012_50__23_07_13_H3_lancha1_005.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_011_060518_002.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_011_060518_003.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_023_44_013.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_016_041411_032.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_004_005033_030.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_114_224627_002.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_005_013045_005.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_005_013045_013.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_016_212409_011.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_038_165320_019.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_011_211648_021.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_124_193519_010.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_099_134000_038.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_099_134000_026.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_015_77__23_07_13_H3_Planeadora_005.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_015_77__23_07_13_H3_Planeadora_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_034_001029_013.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_095_024440_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_002_111213_006.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_004_73__23_07_13_H3_pesqMariCarmen_005.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_023_66__23_07_13_H3_Pesquerito2_Velero_010.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_023_66__23_07_13_H3_Pesquerito2_Velero_008.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_062_180933_030.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_004_103412_015.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_057_160715_013.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_021_11_020.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_037_065625_003.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_037_065625_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_013_065145_049.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_049_081819_013.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_016_79__23_07_13_H3_zodiac_001.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_016_79__23_07_13_H3_zodiac_005.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_020_47__23_07_13_H2_bateero2_010.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_020_47__23_07_13_H2_bateero2_015.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_018_70__23_07_13_H2_yatePeq_006.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_018_70__23_07_13_H2_yatePeq_008.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_002_184639_006.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_002_184639_005.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_034_153434_020.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_034_153434_011.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_014_035818_015.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_014_015806_010.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_084_143323_016.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_030_064727_064.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_015_215301_009.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_116_49_002.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_121_203852_001.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_028_084039_027.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_045_191109_025.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_045_191109_011.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_045_15__10_07_13_radaUno_Pasa_011.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_045_15__10_07_13_radaUno_Pasa_005.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_095_024440_001.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_095_024440_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_099_134000_022.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_053_122139_011.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_030_7__10_07_13_marDeCangas_Espera_003.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_065_054518_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_046_001752_009.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_046_001752_003.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_044_28__19_07_13_NuevoRiaAldan_007.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_044_28__19_07_13_NuevoRiaAldan_010.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_022_78_018.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_016_212409_015.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_036_134837_008.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_021_174832_002.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_037_104632_049.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_037_104632_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_036_040423_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_033_201729_001.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_032_212341_017.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_032_212341_020.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_030_61__23_07_13_H3_MarDeCangas_SALE-2_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_030_61__23_07_13_H3_MarDeCangas_SALE-2_004.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_016_79__23_07_13_H3_zodiac_001.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_016_79__23_07_13_H3_zodiac_007.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_032_162550_022.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_032_165340_034.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_007_21__18_07_13_lanchaMotora_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_007_21__18_07_13_lanchaMotora_002.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_006_14_006.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_041_235904_002.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_062_180933_040.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_062_180933_046.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_011_194116_002.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tug/deepship_tug_011_035104_102.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_073_025328_060.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_073_025328_028.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_028_084039_019.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_028_084039_029.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_013_113409_026.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_013_113409_007.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_024_102113_002.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_104_085359_025.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_023_44_005.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_049_081819_012.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_010_231302_028.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_010_231302_039.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_042_111532_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_025_003918_022.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_024_010604_000.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_016_212409_001.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_022_49__23_07_13_H1_bateero4_004.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_022_49__23_07_13_H1_bateero4_014.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_023_073155_089.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_053_122139_003.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_070_205515_011.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_015_135143_012.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_024_69_016.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_024_69_014.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_076_005931_002.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_076_015656_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_022_025605_032.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_022_124845_007.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_039_78__23_07_13_H3_vikingChance_003.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/shipsEar_10s/ship_039_78__23_07_13_H3_vikingChance_007.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_036_040423_033.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_067_004704_016.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_025_003918_018.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_008_182048_005.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_034_041452_022.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_034_041452_004.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_009_093622_007.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_039_234924_001.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_120_050415_018.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_120_050415_019.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_021_013547_041.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_021_020119_021.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_043_044753_016.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_032_174012_035.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_124_193519_015.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_045_014907_019.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "否",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_119_171300_002.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_040_15_012.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_005_021603_008.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_005_021603_032.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_036_095127_031.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_036_095127_040.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_089_025825_003.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_089_025825_000.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_017_3_007.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Passengership/deepship_passengership_017_3_017.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_006_214515_009.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Tanker/deepship_tanker_006_214515_017.wav"
+      ],
+      "language_id": 1
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio><audio>请判断这两段音频是否源自同一艘船？请只回答'是'或'否'。",
+          "role": "user"
+        },
+        {
+          "content": "是",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_017_161634_013.wav",
+        "/nfs4/wyz/Underwater_QA/datasets/Deepship_10s/Cargo/deepship_cargo_017_161634_019.wav"
+      ],
+      "language_id": 1
+    }
+]

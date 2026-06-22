@@ -1,0 +1,59 @@
+model_name_or_path: /nfs4/wyz/merged_qwen2audio/lora_5l_merged
+reward_model: "http"
+trust_remote_code: true
+# bf16: false
+# fp16: true
+# enable_liger_kernel: True
+
+# resume_from_checkpoint: /home/wyz/projects/LLaMA-Factory/saves/ppo_token_level/0308_token_level/train_ug_ppo_filtered_samples_full_vhead_from_reward_remove_errorrate_pdbs_4_gat_2_lr_5e-5_nobf16_rewardfrom00tominus01/checkpoint-850
+
+
+### method
+stage: ppo
+do_train: true
+finetuning_type: lora
+lora_rank: 8
+lora_target: all
+reward_model_type: api
+
+### dataset
+dataset: train_ug_ppo_filtered
+# max_samples: 20
+template: qwen2_audio
+cutoff_len: 4096
+overwrite_cache: true
+preprocessing_num_workers: 8
+dataloader_num_workers: 2
+remove_unused_columns: False
+### output
+# output_dir: ./saves/test
+output_dir: ./saves/ppo_token_level/0308_token_level/train_ug_ppo_filtered_samples_full_vhead_from_reward_remove_errorrate_pdbs_4_gat_2_lr_5e-5_nobf16_rewardfrom00tominus01
+
+
+logging_steps: 1
+save_steps: 50
+plot_loss: true
+overwrite_output_dir: true
+report_to: none  # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+per_device_train_batch_size: 4
+gradient_accumulation_steps: 2
+learning_rate: 5.0e-5
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+ddp_timeout: 180000000
+
+### generate
+max_new_tokens: 512
+top_k: 0
+top_p: 0.9
+
+## eval
+# eval_dataset: ug_eval_id
+
+# val_size: 0.1
+# per_device_eval_batch_size: 1
+# eval_strategy: steps
+# eval_steps: 500

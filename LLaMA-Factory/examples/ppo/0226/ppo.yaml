@@ -1,0 +1,50 @@
+### model
+model_name_or_path: /nfs4/wyz/merged_qwen2audio/lora_5l_merged
+reward_model: "http"
+trust_remote_code: true
+
+### method
+stage: ppo
+do_train: true
+finetuning_type: lora
+lora_rank: 8
+lora_target: all
+reward_model_type: api
+
+### dataset
+dataset: train_ppo_uyghur
+max_samples: 200
+template: qwen2_audio
+cutoff_len: 2048
+overwrite_cache: true
+preprocessing_num_workers: 8
+dataloader_num_workers: 2
+remove_unused_columns: False
+### output
+output_dir: /home/wyz/projects/LLaMA-Factory/saves/ppo/0226/test
+logging_steps: 10
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+report_to: none  # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 64
+ppo_score_norm: true
+ppo_whiten_rewards: True
+
+
+learning_rate: 1.0e-6
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+
+### generate
+max_new_tokens: 512
+top_k: 0
+top_p: 1.0
+do_sample: True
+ppo_target: 1.0

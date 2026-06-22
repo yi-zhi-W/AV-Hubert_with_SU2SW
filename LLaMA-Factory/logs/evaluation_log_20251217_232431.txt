@@ -1,0 +1,138 @@
+============================================================
+🚀 开始多适配器多数据集评估任务（双数组实现）
+📅 开始时间: Wed Dec 17 23:24:31 CST 2025
+💻 GPU: 2
+📁 适配器数量: 1
+📊 数据集数量: 1
+🔧 微调类型映射:
+    - lora_4L_samll_train → lora
+📝 日志文件: evaluation_log_20251217_232431.txt
+============================================================
+
+****************************************************************
+🔧 开始处理适配器: lora_4L_samll_train (索引: 0)
+📂 路径: /home/wyz/projects/LLaMA-Factory/saves/4L/lora_4L_samll_train
+⚙️ 微调类型: lora
+****************************************************************
+
+============================================================
+🔁 任务进度: 1/1
+📊 开始评估数据集: 4L_pl_test
+🔄 适配器: lora_4L_samll_train
+⚙️ 微调类型: lora
+============================================================
+📂 输出目录: ./saves/results/lora_4L_samll_train_lora_4L_pl_test
+⏳ 开始时间: 23:24:31
+cli.py  command == Command.TRAIN
+[INFO|2025-12-17 23:24:39] llamafactory.hparams.parser:380 >> Process rank: 0, world size: 1, device: cuda:0, distributed training: False, compute dtype: None
+[INFO|2025-12-17 23:27:41] llamafactory.data.template:143 >> Add <|im_end|> to stop words.
+[INFO|2025-12-17 23:27:41] llamafactory.data.loader:143 >> Loading dataset 4L_pl_test.json...
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_24005493.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605240.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603604.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20774047.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603955.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_28085422.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603513.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20606017.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43332905.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605486.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20606536.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603751.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43564609.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605914.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43280915.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20615742.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605990.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605372.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43361272.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_40797367.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43492168.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605612.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605972.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605275.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603514.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20608959.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603976.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605913.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605927.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20604043.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603522.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20626235.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603527.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20667391.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605281.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20625652.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43333697.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603628.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20806604.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603987.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43340715.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43331541.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605456.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605237.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605910.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20604512.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603769.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20735976.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_28230997.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20629920.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20608886.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603968.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43332078.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20623217.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603717.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_22782761.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_41911329.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603741.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_30691917.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_38708051.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603680.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_23816321.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20774191.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20610966.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20606495.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20604024.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_41068904.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603652.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603497.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_27240243.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20634403.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603566.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603951.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603762.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20604122.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605264.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605324.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20616535.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605321.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605954.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603742.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603745.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603515.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_31705756.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43351171.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20770506.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605428.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603575.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_28544809.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605724.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603691.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20627510.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_43335712.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20614645.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605266.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20605516.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20606456.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20604260.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20603671.mp3 does not exist in `media_dir`. Use original path.
+[WARNING|2025-12-17 23:27:45] llamafactory.data.converter:154 >> Media /nfs4/wyz/common_voice_datasets/CS/cv-corpus-24.0-2025-12-05/cs/clips/common_voice_pl_20639223.mp3 does not exist in `media_dir`. Use original path.
+❌ 评估失败! 适配器: lora_4L_samll_train, 类型: lora, 数据集: 4L_pl_test
+⏱️ 结束时间: 23:27:52
+============================================================
+
+============================================================
+🎉 所有评估任务已完成!
+📅 结束时间: Wed Dec 17 23:27:53 CST 2025
+✅ 成功任务: 1/1
+============================================================

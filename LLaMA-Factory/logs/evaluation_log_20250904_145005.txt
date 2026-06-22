@@ -1,0 +1,27 @@
+============================================================
+🚀 开始多适配器多数据集评估任务（双数组实现）
+📅 开始时间: Thu Sep  4 14:50:05 CST 2025
+💻 GPU: 2
+📁 适配器数量: 1
+📊 数据集数量: 5
+🔧 微调类型映射:
+    - gatemtllora_5L_Bnum_5_compress → gatemtllora
+📝 日志文件: evaluation_log_20250904_145005.txt
+============================================================
+
+****************************************************************
+🔧 开始处理适配器: gatemtllora_5L_Bnum_5_compress (索引: 0)
+📂 路径: /home/wyz/projects/LLaMA-Factory/saves/qwen2_audio_instruct-7b/gatemtllora_5L_Bnum_5_compress
+⚙️ 微调类型: gatemtllora
+****************************************************************
+
+============================================================
+🔁 任务进度: 1/5
+📊 开始评估数据集: az_test_id
+🔄 适配器: gatemtllora_5L_Bnum_5_compress
+⚙️ 微调类型: gatemtllora
+============================================================
+📂 输出目录: ./saves/qwen2audio-7B-Instruct/gatemtllora_5L_Bnum_5_compress_gatemtllora_az_test_id
+⏳ 开始时间: 14:50:05
+cli.py  command == Command.TRAIN
+[INFO|2025-09-04 14:51:47] llamafactory.hparams.parser:380 >> Process rank: 0, world size: 1, device: cuda:0, distributed training: False, compute dtype: None

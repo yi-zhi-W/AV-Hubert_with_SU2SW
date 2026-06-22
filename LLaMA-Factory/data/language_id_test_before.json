@@ -1,0 +1,6146 @@
+[
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Eşq şeirlərindən əlavə din və təsəvvüf ilə bağlı şeirləri də vardır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30644804.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Orta məktəbi bitirdikdən sonra Ukraynanın Lvov şəhərində hərbi xidmətdə olmuşdur",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_34229675.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Lənkəran şəhərində dəfn olunub",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_32296128.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Qədim alban tarixinin izləri bu ərazidə bir çox yerlərdə var",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_28841680.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Kəndin yerində müasir qəsəbənin inşası planlaşdırılırdı",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_28841731.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Papanın xahişini qəbul edən Attila geri döndü",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37445600.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "İdman həyatı başa çatdıqdan sonra Torpe ailəsini saxlamaq üçün çalışmışdır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37445601.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Jurnalistlər hekayələrinin əyləncəli hala gəlməsinə səbəb olan müəyyən bir məsələdə faktlar ata bilərlər",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30651706.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Onu Ran Min adlı qardaşlığı öldürmüşdü",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30651707.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Yarada iki əsas dəyişiklik baş verir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_26658645.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Komsomol gölü yaxınlığında yerləşən mərkəzdən kifayət qədər aralıda yerləşir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_26658646.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Film iki seriyadan ibarətdir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36638179.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Bunun səbəbləri müxtəlifdir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36638181.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Ölkə müsabiqədə iştirak etdiyi illər ərzində heç vaxt qalib olmamışdır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40474176.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Dəmirçilər Tərtər rayonunun eyniadlı inzibati ərazi vahidində kənd",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40474178.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Mağaraların girəcəyində aşkar edilmiş mədəni təbəqə qalıqları onların qədim insan məskənləri olduğunu göstərir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40474179.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "İlk işi Şabran şəhərini ələ keçirmək oldu",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40474180.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Bəyazid taxta keçdikdən sonra İshaq Paşanı yenidən sədrəzəm seçdi",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_38555101.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Salar təxəllüsü ilə ruh aləminə uyğun şeirlər yazırdı",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_38555102.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Cavabında kazaklar narazı şəxsləri quyuya ataraq öldürdülər",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_38555103.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Müsabiqədən sonra onu artıq hamı tanımağa başlayır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_38206777.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "İnsanlar və heyvanların bitkilərlə zəhərlənməsi müxtəlif səbəblərdən baş verə bilər",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_38206778.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Həmin il Yaponiya Misirin müstəqilliyini tanımışdır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_38206779.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Film Türkiyə yazıçısı Nazim Hikmətin eyniadlı əsərinin motivləri əsasında yaradılmışdır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_27426027.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Yuxarı axarlarda bataqlaşmış ərazidən axır və suyu dayaz olur",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_27426028.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Ölkə ərazisindən axan Niger çayının adı ilə adlanır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_27426029.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Elə orta məktəbi də həmin kənddə bitirib",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_27426031.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Daha sonra həmin məktəbin direktoru olur",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40603073.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Atası qızına mükəmməl təhsil vermək arzusunda idi",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40603074.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Turizm qoruq ətrafındakı bütün ərazilərin inkişafının əsas sahəsidir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40603076.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Hər yeddi ildən bir keçirilir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40603077.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Qrup artıq fəaliyyətini dayandırmışdır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30416717.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "İyunun əvvəlində çiçəkləyir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30416718.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Bundan sonra isə körpü bərpa edilməmişdir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30416719.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Dinozavrlar arasında ən uzun boyuna malik imiş",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30416720.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Qurultayda Azərbaycanın bütün bölgələrini və tədris müəssisələrini təmsil edən nümayəndələr iştirak edirdilər",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30416721.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Əli Amir uşaq yaşlarında ailəsi ilə birlikdə İsrailə köç edib",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_29987070.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Kanalda İngilis və İspan dillərdə proqramlar nümayiş olunur",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_29987078.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Təhsilini davam etdirmək istəsə də mümkün olmayıb",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_29987089.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Müxtəlif illərdə fərqli sahələrdə iş fəaliyyətinə başlayır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_29987093.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Kolbasa tam və ya doğranmış şəkildə servis edilir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37653110.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Çar ordusunda zabit kimi xidmət etmişdi",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37653111.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Bayraq mərasimi himnin sonu və cavabdeh müəllimin əmri ilə başa çatır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37653113.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Orta əsrlərdə geniş yayılmış bu oyun klassik ədəbiyyatımızın nümunələrindən də bəllidir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37653114.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "İngiltərədə nəşr edilmiş bu Divanda məhəbbət lirikası üstünlük təşkil edirdi",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30574004.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Gürcüstan hökumət qüvvələri tez bir zamanda Abxaziyanın böyük bir hissəsinə nəzarəti bərpa etdi",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30574005.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Bundan başqa Xızır Nəbi Aşıq Qərib dastanının Azərbaycan versiyasının qəhrəmanıdır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30574006.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Hindistanla Rusiya arasındakı strateji tərəfdaşlıq beş sahəni əhatə edir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30574007.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Qəsəbə adını oradakı eyniadlı çayın adından almışdır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_30574008.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Siyasi mövzularda bir neçə kitabın müəllifidir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36559374.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Göl Balıqçılıq üçün əlverişlidir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36559405.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Şuşada doktor Mirzə Hüseyn bəy kimi tanınırdı",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36559407.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Bir müddət kikboksinq və futbol ilə məşğul oldu",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36559408.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Bütün işlər barışıq hakimi tərəfindən təkbaşına həll edilirdi",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36559441.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Komanda yoldaşları bunun Oliverin mübarizə aparmaq üsulu olduğunu düşünürlər",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36559442.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "İmişli şəhərində dəfn olunub",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37772750.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Həmin dövrdən indiyədək Heydər Əliyev adına Saraya ləyaqətlə rəhbərlik edir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37772752.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Hər iki xəstəliyi aradan qaldıra bildi",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37772755.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Şəhər alim və ixtiraçı Nikola Teslanın doğulduğu yerdir",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37772757.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Hazırda xarabalıqları qalır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37772798.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Daun sindromu ilə doğulan uşaqlarla erkən məşğul olmaq lazımdır",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37772799.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+      "messages": [
+        {
+          "content": "<audio>Generate the caption in Azeri:",
+          "role": "user"
+        },
+        {
+          "content": "Salyan rayonunun Sarvan inzibati ərazi vahidində kənd",
+          "role": "assistant"
+        }
+      ],
+      "audios": [
+        "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_37772800.mp3"
+      ],
+      "language_id": 3
+    },
+    {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ejesi görgüli ýol boýy ogluna guwanyp geldi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_39930398.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Özüň üçin ýazmalymy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37931564.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ölüm diriligiň içine girip gitdi dirilik ölümiň ak gara siňdi gara aga",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37775810.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Hakykatdan hem jigim ikimiz daýymyň tüýdük çalanyny eşitmändik",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37808429.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýöne kino kameraň iň kiçijik zatlara çenli görkezýändigini hiç ýadyňdan çykaryp bolanok",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37826162.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Bulgar burç gerek",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37817476.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "O diňe bir ýüregimmi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_39895013.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Adamogly irki döwürlerden başlap kiçi ýa-da uly bir toparyň jemgyýetiň içinde ýaşap gelýär",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_39929221.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ygtybarly adamlar azalyberse dünýäniň direginiň gowşadygy bolmazmy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37786783.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "sözüniň yzynda durarmyka diýen pikir geler",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37786785.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Aramyzda gödekden gönüsini aýdýan birimizem bardy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776556.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Kanunlar üýtgeşikleriň aslyndaky birligi görmegimize kömek etdi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776560.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ilki Näme üçinkä diýip geň galdym",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37909276.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Adam kän ýüregini açyp ýörýärmi hekaýa goşgy bahana bolmasa…",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_39930362.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Bu güýcli depginde aýlanyp duran",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_39930367.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Oglanlaryñ biri türkmençilige bolan ýigrenjini beýan etdi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37810355.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ol Oraza bir zatlar diýjek bolýana meňzeýrdi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37810401.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ejesi Tüweleme siziň tohumyňyz mergen-ä diýip arkasyna kakypdy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_39894791.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Şeýdip ýene bilelikde bagtly durmuşlaryna dowam edýärler",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_39894912.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Hany seniň içiňdäki howruň derdiň",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37941226.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "ýöne senem Allahyň öwgüsine mynasyp bolaýsaň diýip pikir edenimi duýman galdym",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37941362.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýeke atly top oklarynyň çykýan ýerine duşmanyň çadyrlaryna tarap at goýdy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36937993.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Iki öý beýleräkde tamdyr garalyp görünýär",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36937996.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Gahrymanymyz bu zatlary eýwandakylara düşündirmek üçin yzyna gaýtdy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776908.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "emma Saryýa hiç zady ýitirmeýär…",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776910.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Adamlaryň edip biljek zatlarynyň her haçan bir çägi bolan",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38028035.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Menem ogullarymyň bilýänini bilemok",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38028036.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Belki şondandyr bularyň arasyndaky serhedi tapmak kyn",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38028037.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Atmosferadaky kömürturşy gazy tolkunlar we başga dürli tebigy hadysalar arkaly suwda ereýär",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37826288.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "ne eselýän ne peselýän häsiýetli adamlaryň ýanyna barasym gelerdi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37826289.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Emma geljegiňi aýaklaryňa ynanaýasyň gelmez",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37826291.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýöne gezip ýörkäňem öz işiň bilen başagaý wagtyňam oň setirleri diliňe geläýýärkä diýdi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37792739.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Soň ýene beýniň bir jümmüşinden Bolýar-a diýdi welin aldaýan bolmasa ýagşydyr",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37792740.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Üns berseňiz onuňam çyn gözelligi häsiýetindedir",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37792779.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "häzir gözöňüme getirýän welin ol naý bolmaly",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38001943.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Käteler bir zat eşitseň ýa-da kelläňe bir pikir gelse derrew ýazasyň gelýär",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38001944.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Hemme zat meň üstüme gelýär bar tupanlar maňa sataşýar diýip naladyňmy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38001999.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Öwgiň ýylanyň jadysy ýaly zatdygynam şöhratparazlygyň adamy gözli kör edýäninem köp görensiň dostuum",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37777717.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Egin-eşik satýan dükançam Ýaz çykdy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37777718.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Hatda dogany oňa iki gezek hyrlysynam ynanypdy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37777722.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Hawa bu-da bir ýol",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36939702.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Emma Maksadyň ony öçürmäge gaýraty çatmady",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36939703.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ölýändigine gynanýanlar asly durky bir zat isläp özleri başgaça ýaşanlar bolaýmasa…",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36939704.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Geliň onda ölümiň nädip pikir durlaýanyna göz ýetireliň",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36938003.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýadyma düşýär gazetde işleýärkäm",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36938005.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Gyz ýüzüni tutup aşak oturandan soň garry nämäň-nämedigine düşündi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36938006.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Buz ýaljak miweleriň aýratyn tagamyny nädip düşündirjek",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37772615.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Has kislotaly suwda kömürturşynyň umman garyna ýelmeşmegi kynlaşýar",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37772618.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "eýgilige bolsun-da hernä",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37772619.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Açylan gapjykdaky bir petde pula gözi düşen Nurum saklanyp bilmedi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37772620.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Nähili uly maksatlar öňde duran netijeler ýetilmän galýar",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37825680.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Epesli wagt şeýle-de boldy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37825852.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "- Ýok-laý bilmän bijaý agdarynaýypdyryn",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37777712.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Diňe Haljan bir elini ýarasynyň üstüne goýup süýji ukuda ýatyrdy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37777713.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Indi pyýadalap bäş-on minut ýöresem öýe ýetýän",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37777715.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Mahrum ýaly duýýan bolsak pikir edeliň",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36961574.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýaryş diýlen düşünje şeýle bir ýöntem şeýle bir yzda galýan eken",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36961575.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Awtobusyň yza bakýan oturgujynda oturanlary üçin bize tarap görnüp durdylar",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36961576.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýa men öseýin töweregimdäkilerem hökman yzymdan geler diýdiňmikäň",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36961577.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Orazyň welin ýüregi sähelçe-de üýtgemändi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38030690.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Adamogly bütin taryhy boýunça üýtgeýän zatlary synlamagy juda halady",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38030706.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Biz muňa hezil edip gülüşdik oňa Oguldursungözel diýişdik",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38030748.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ölümden agyrlar we ölümden ýeňiller",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_38030749.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Käbir akyldar adamlaryň hiç kimden hiç haçan sowgat almandygyny ilki gezek eşdenimde haýran galypdym",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776842.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Irdenki ys täzeden burnuna uran ýaly boldy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776843.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Mydam bir kararly daglaryň agras ädimläp gelýän paýhasly türkmen ýaşulysynyň başyna dönseň",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776844.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýöne bir zat böwrüme sanjy bolup dur",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776846.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Şobada bir toplum atly „Alla diýip duşmana tarap at goýdy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37766541.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Oňa gezek gelýär welin artistligem ýok ýasamalygam",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37766542.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "men bildirmesemem oturmagy kyn görýädim",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37766543.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýagny matematika dilinde aýtsak hemme sanlar rasional sanlar bolmalydy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37766548.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Käte näbellilikler şeýlebir ýaş başyňa agram salar welin",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776619.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Adam köp halatlarda haçan ýalaňaç bolmagy saýlaýar",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776620.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Onda bu meseläň çözgüdi ýokmy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776621.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Bu hekaýamyzda iki sany James bar",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37776622.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýöne düşünmesem nädeýin",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37775313.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "indikiler oturan ýerlerinden ekrana seredip",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37775315.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Telefon bolsa hezil  ol çagyrylmadyk myhman däl",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37775316.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Okan kitaplarymyň diňe atlaryny ýazyp çykjak bolsamam eslije wagtym gider",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37016565.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Iň bolmanda indiki geljek ýyllary öldürmejek bolaryn",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37016566.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Pikir azatlygynyň çägi barmy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37016567.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Edil ýaňy meň elimden amanadyny tabşyran orsam ýeke-ýeke sanardan kän",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37016568.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Käbir uly meseleler üçin kiçiräk zatlary gurban etmeli bolýar",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37786788.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Uly diýýäniň seň üçin jany agyrsa-da agyrýandyr welin",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37786817.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ýüregiňi bu dünýede goýup özüň o dünýä gidilmez",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37786819.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Oraz elindäki hyrlysyny ýeňil oglana berip aşak düşüp barýardy",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37786842.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Gala gerekmi size -",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_37786852.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Ejizem özüm ekenim maýybam",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36932503.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkmen:",
+            "role": "user"
+          },
+          {
+            "content": "Garaz boýun alyp başlamazdan ozal bu jenaýatyň ýükini paýlaşmasam bolanok",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TK/cv-corpus-20.0-2024-12-06/tk/clips/common_voice_tk_36932504.mp3"
+        ],
+        "language_id": 1
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Эртең дагы башка бирөө бул маселе менен алектенет",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17589356.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бардыгы мурдагыдай эле болот",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18391692.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Нурболоттун энесин таба албай койдук",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17936429.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Мен политехке жеттим",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_22121992.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бул чырдын арты менен Темир Сариев отставкага кеткен",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17454364.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бирок ошол сол тарабы иштебей жатат",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18160877.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Чет өлкөлөрдө бул модага айланган",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_19920799.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Жыйынтыгында сот коргоочу тараптын өтүнүчүн четке какты",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17830306.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Эч ким жок көрдүңөрбү",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17830308.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ал биз менен келип таанышкан биринчи киши болду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_19571750.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Мен юрист катары бул жеке аныктаманы мыйзамсыз деп эсептейм",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_19571751.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Баарыбыз жапа тырмак ашар жолу менен бүтүрдүк  деди Аманбеков",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_19921332.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "АКШ долларын сатып алды",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_19921355.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Украина жана Батыш өлкөлөрү Крымдагы референдумду таанышкан эмес",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18150122.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Пульт менен башкарылган машина Жоодардын бешинчи эмгеги",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18150123.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Көлдүн түбү туздан турат",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17629702.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ирак аскерлери Мосулга өтө жакын жерге келип калышты",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17629703.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Далер да ушундай окуяга туш болгон",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17963636.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Көңүл буруңуздар прокурордук айыптоонун текстине гана",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17963648.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бул биздин конституциялык укугубуз",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17411985.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Учурда киришип жаткан сайтым коммерциялык сайт болуп эсептелинет",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17411987.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Мен отурган жердин жанынан кичинекей диктофон табылды",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17411988.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ал Москвада колго түшүрүлгөн",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17435649.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ага жооп күн батареялары болушу мүмкүн",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17435650.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Анан мен ал дарбазаны ичинен ачканымды айттыңыз",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17435653.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бул тарых музейинде жыл ичинде чыккан экинчи өрт чыгуу",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18189627.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Силерди бүт өлкө көрүп жатпайбы  деди Акаев",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18189628.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Жергиликтүү тургундар аябай меймандос",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18189643.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Азыр менин аң сезимимде элестүү президент жашап жатат",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17357949.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бул жылыбыз дагы тарыхый жыл болду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17357950.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Маморгандын алдында коомдук фонд түзүү  бул туурабы",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17357951.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Кыйноо эч нерсеге алып келбейт",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26113663.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Рожер менен болгон матчты менин кыялым деп айтса болот",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17890712.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ал ичип келгенде өзүн орой алып жүрчү",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17890713.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Мен муну жазган эмесмин",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17890714.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Мен ар кайсыл тигүү цехтеринде иштедим",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_21371179.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Алар бир ай аралыгында талаш жерди кайтарып турушкан",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_21371180.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бирок Бекешев комитет бул мыйзамды караган эмес деп билдирет",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_21371182.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "ЖКККББнын кызматкерлери кырсык болгон жерде иш алып барууда",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_23777179.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Медикаменттер жетишсиз болууда",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_23777180.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Сот органдарында судьялык кадр алмашуулар болду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_23777182.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бир жерине ошну жазса болмок да",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_23393114.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Эгер сууну өчүрүп аны тазалайбыз дешсе биз каршы эмеспиз",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_23393115.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Футболдук матч Долон Өмүрзаков атындагы стадиондо болот",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_23393117.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Казак чек арасындагы көйгөйдү чечти",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_23393118.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бирок ошол эле күнү кечинде бизге дагы беш окуучу кайрылган",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17436474.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Текшерүүгө эч ким келбейт",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17436475.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Алардын өздөрүнүн жаңы ойлору пайда болот",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17436477.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Азырынча камералар сыноо тартибинде иштеп жатат",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17436478.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Негизи коалициялык көпчүлүк жакшыраак иштеши керек эле",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18140656.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Биринчи эле чабуул атаандаштын дарбазасын алууга жеткирди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18140658.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Аны менен эксперттер алектенишет",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18140659.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ал көп нерсени укту",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18140660.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Сууга бышкан жумуртканы бир корозго бирден жегизебиз",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17413558.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бизди өлкөдөн чыгарбай интернетибизди тартып алышабы",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17413559.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Кыштак Памир тракты деп аталган көлдүн чыгыш жээгинде жайгашкан",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17413561.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Жүргүнчү ташыган учактын алдыңкы бөлүгүнөн өрт чыкты",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17413565.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Алар машинадан чыгышса сүйлөшөбүз го деп ойлогом",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18442806.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Бегайымдын айтымында анын иниси базарда эч качан иштеген эмес",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18442807.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ал тургай эжеси да үйдө анчалык жардам берчү эмес  деди жеңеси",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18442809.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Идеямдын максаты болуп сувенир буюмдарды жасоо",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_18442810.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ал террористтик аракеттер тууралуу айтып жарандарды ага үндөгөн",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17629873.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Хенце төрт адамдын өмүрүн сактап калды   деп билдирди Наполис",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17629874.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Биз сунуштайбыз ал эми туристтер өздөрү бааларга ылайык тандашат",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17629876.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ал өзүн саясий мотивдер менен камакка алынды деп эсептейт",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17629877.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "А ашканада шекери жок ботко даамсыз сорполорду беришчү",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17794620.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Эми болсо коңшу жашаган эженин баласын багып жүрөм",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17794621.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Клооптун редакциясы кыймылсыз мүлктүн ээсин текшерип көргөн",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17794625.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Ошондуктан тез жардам чакыруу  машакаттуу",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_17794627.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Аларга Токтогул ооруканасында медициналык жардам берилген",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_19921750.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Мен бул маселени бүгүн эле дароо чече албайм",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_19921765.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Алар беш арыз боюнча соттун чечимин даттанышкан",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_19922202.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Kyrgyzstan:",
+            "role": "user"
+          },
+          {
+            "content": "Айылдык кеңештин мурдагы депутаты жана төрайымы",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_19922567.mp3"
+        ],
+        "language_id": 2
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "бир нәрсигә пүтүн вуҗудуң билән берилсәң пүтүн дуня саңа ярдәм бериду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_36990048.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "яхшини махтисаң яришиду яманни махтисаң адишиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_27683137.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "абдуқадир дамоллам мәрипәтпәрвәр тәрәққийпәрвәр бир зат иди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_35080188.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "хораз чиллайду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_37806185.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "баһар кәлгәндә улар орманлиққа берипту бу чағда дәрәхләр бих сүрүп чечәклигәникән",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_34054880.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "сиз билән танса ойниғанда есимдә бәк қаптикәнсиз",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_27267081.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "бундақ келиштә әлвәттә җиқ мәниләр бар иди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_30473230.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "билимсизгә төрдин орун тәгсә қариғинки төр пәгаһ пәгаһ болса төр һесаблиниду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26347537.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "улар бирәр кишини мәсулийәт билән сөймәйду яки сөйдүрәлмәйду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26188445.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "атуш билән пәйзиваттики йәр тәврәштә аилә зиянға учриди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_35079446.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "яхшила көрсә немигә болса чидап кетиду яхши көрмисә бағлап қойсиму турмайду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_28488419.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "күн ғәрбкә егилгәндә қайтип кәлдуқ",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26189038.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "дада қиз достуң бар охшимамду сән сөрилип йүрсәң йәнә ким мениң лайиқим болушни халисун",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_28379249.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "у өмүр бойи өз хизмитигә садиқ болуп адимийлик бурчини ада қилип кәлгәниди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_28541019.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "меһман алдида аилә әзалириңиздин бирәрини дүшкәлләп яки әйибләп вә яки қаттиқ сөзләрни қилип салмаң",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_36986721.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "бүгүн немә болдикин телефунумниң сигнали бәк начар таза яхши тартмайватиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_37247589.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "ач көз тоймас бехил бейимас",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26190896.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "бу оюн балиларниң зеһнини ечип тәсәввурини күчләндүрүп тәбиәт дунясиға болған тонушини ашуратти",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26188369.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "немә десәң шуни аңлайсән",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_34003943.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "у ясинни чоқум мәсхирә қилиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_33653235.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "яғлиқ ташлаш ақ таш көк таш қатарлиқ оюнлар мәһәллимизни техиму җанландуруветиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26216725.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "һиндистанниң афғанистанға әскәр киргүзүштики мәқсити немә",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_37336648.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "ярниң сүритигә қарима хулқиға қара",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26381458.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "мухтәр бай рәйһанниң қәбрисини қучақлап дүм ятатти",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_33359869.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "у маңа тикилип қариди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_33366114.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "әгәр икки тәрәп тәң болуп қалса он минут узартилиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_38221222.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "һәтта илим издәп көп қетим коня шәһиригә ешәк минип барған",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_38221221.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "аңлисам сиз һазир оюнчуқ ширкитидә хизмәт қилидикәнсиз",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26189549.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "көңүл көңүлдин су ичәр",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26189552.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "вапасиз намәрд адәмләр нәсиһәткә қулақ салмайду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_38389048.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "езип қалған төгә карвини",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_38391939.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "пут путқа һәмраһ қол қолға",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26188756.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "базарда миң киши көңүлдә бир киши",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26451019.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "интайин яхши тизилипту бәк мас кәпту",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_38391893.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "йеқиндин буян мән ким дегән мәсилә үстидә ойлинидиған болуп қалдим",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_38391908.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "вақит бәк қиммәтлик",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_33427814.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "саәт җириңлиди алим татлиқ уйқудин ойғанди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_33427815.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "у қисқа муддәт камандиропкиға чиқип кәтти",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_28487378.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "мана акаң техичә салтаң пети өтүп кетиватиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26188687.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "қиз җаваб бәрмәстин сөсәр яқилиқ җувисини салди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26188688.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "кәмбәғәл гәпдан гөшкә амрақ",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26208705.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "уму қуяштин айрилса көмүр болуп шәкиллинәлмәйду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26089566.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "аттин чүш халтар атни ғени оғри булап кәтмисун",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26089567.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "қарамлиқ әмәс батурлуқ қилмақчи мәнму биллә бараймикин дәймән",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_33999193.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "неси сатқанниң һали хараб қалиду қуруқ дәптәргә қарап",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_33999195.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "парахот дәһшәтлик зилзилидин қаттиқ чайқилишқа башлиди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26189921.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "һашим пәқәт ухлиялмай талаға чиқти арқа һойлидин чиқип тақақлиқ ашханиниң алдиға кәлди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26189922.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "қапақни пулға алмай бараңни пулға апту",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26195731.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "у егиз оруқ дүмчәкрәк көзәйнәк тақивелип хиял билән йәргила қарап маңидиған адәм",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26291011.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "тор бети шундақ көркәм чирайлиқ иди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_33357244.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "җүрәтниң сөзи аяғлишиши билән тәң қизғин чавак челинди",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26448551.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "бүгүн немә болдикин бешим ағрипла туриду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_37805679.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "тән сақлиқи падишаһлиқ",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_27198097.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "шундақ дегиничә өмәрбай зәргәрниң өйидин оқтәк учуп чиқип кәтти",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_35087636.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "уруқ бир йигит бовайниң көзичила қизларниң пейигә чүшти",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26325350.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "йүрәккә буйруқ қилиш мумкин әмәсқу дәп язғанлиқи задила есимдин кәтмәйду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26325355.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "әң муһим нәрсилиримни йоқитип қойдум бу биарамчилиқ қачанғичә давамлишар",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_37322570.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "түркийәдә йәр тәврәпту уқтуңларму",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_37322573.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "бәзидә улардики роһ зади нәдин кәлгәнду дәп ойлап қалимән",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_35328818.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "өз ана тилидин башқа парс әрәб тилиниму пухта игилигән",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_38381317.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "вой бәк күлисизғу",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_38381318.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "немишқа хата йоллинип қалған учурларни өчүргили болмайду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_38217432.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "кевәз ғоза тутуп ечилған чағларда фосфорлуқ оғутқа еһтияҗлиқ болиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_34913134.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "ким бизни қоллиса биз шуниң билән дост болимиз",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_34913136.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "машааллаһ омақ қизимизға мубарәк болсун буниңдин кейин техиму көп нәтиҗиләрни қазинишқа несип қилсун",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_34913138.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "аддий лекин муһим принсип бар у болсиму худа пәқәт һәқиқий тиришқанларниң тиликини иҗабәт қилиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_33488703.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "сөзни җайида сөзләшни билсә пайдиси болиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26190955.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Uyghur:",
+            "role": "user"
+          },
+          {
+            "content": "әл пүв десә боран чиқиду",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/UG/clips/common_voice_ug_26202362.mp3"
+        ],
+        "language_id": 0
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ayrıca dans müziği ritimlerini de bolca içerir",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_38719525.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Altının kıymetini sarraf bilir",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28847018.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Mezarın Miken dönemine ait olduğu sanılıyor",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_21411764.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ancak süreç Ekim ayında iptal edildi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25228500.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bir gün ne göreyim Yusuf evden sazını getirmiş",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28962623.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yarı kapalı gözleri bir hayali kovalıyor gibiydi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_31785302.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Evet akrabam olduğunu size ne diye söyledi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25543598.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "İlk eser sahibi tüzelkişi ise koruma süresi aleniyet tarihinden itibaren yetmiş yıldır",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_32415587.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Hani şu Hasanın nasıl boğulduğunu anlatacaktın dedim",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28979234.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Vesiç birkaç örnek daha veriyor",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25223107.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Gelebildiğinize çok sevindim",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_36875028.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Gerçekten de bu süreci hızlandırmak istiyoruz",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_17910981.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bankada seksen yüz bin lirası olduğu herkesçe muhakkak sayılırdı",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_29139469.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Çünkü o bugün şaheserini bitirmişti",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_27207881.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ömer bey öndekilerden birinde",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_35260450.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Sonra tekrar İsmaile döndü yumruğuyla göğsünü döverek Bütün mesuliyet benim",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_30683204.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Değirmenci de bunların arasındaydı beyaz sakalını karıştırarak lakayt gözlerle bakıyordu",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28130392.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yirmi beş yaşında düştüm damlara",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_35268649.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bende bir şeyler arıyor gibiydi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_32135043.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Konserin tarihi Ocak ayı ortasında açıklanacak",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_21426321.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yürüyüşünü hızlandırmak isteyince bir öksürük nöbetine tutuldu",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_27208306.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Sergi Mayıs ayı sonuna kadar gezilebilecek",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_21734672.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Sevgilin güzel miydi bari",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_31785297.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Neye benziyordu biliyor musun",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_26529386.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Tabii canı sıkılıyordu ama ne yapılır başka bu şehirde",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_30509796.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bunu sahiden istesem bile artık böyle bir insan bulmama imkân yok",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25543528.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bir yetişkin kızım var liseye gidiyor",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25543575.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Peki ama niçin bir daha hiç gelmediniz",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25576340.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Malını yemesini bilmeyen zengin her gün züğürttür",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28962480.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Defteri sobaya atıp dışarı kaçmayı düşünüyordum",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25543485.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Sarhoş olduğun zaman çok can sıkıcı oluyorsun",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_36439241.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Sonra düşünmek istemediği için birdenbire kendi kendine kızdı",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_26644449.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Her defasında yüzünde yeni ifadeler gitgide kendini belli eden bir hayat görür gibiydim",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25543632.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yaz ortasında bir kere garip bir şeyler yazmıştı",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_32698554.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bakalım doğru anlamış mıyım",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_30509898.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bir taraftan Çehrini tekrar fethetmek için hazırlığa başladılar söylentilerini yaydılar",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_39794775.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Kumlu yollarda uzun müddet dolaştık",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_27207678.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Esirleri daha kuvvetli daha temiz olanlar kurtarsın",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_33996568.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Devam etmek istiyorum",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_35261996.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Mutena Cankurtaranın tok ve tatlı sesi birden sertleşti Ne demek o",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28861651.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Başına bir şey mi geldi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28861552.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ben kimseyi öldürmedim",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_27394714.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Gençsin güzelsin gözlerinde doymamış bir hasretin ateşli bulutları dolaşıyor",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_29800600.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Başka zaman rahat bırakır",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_29799762.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bunlar da neyin nesi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28970682.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "İkili KariZma adlı bir grup kurdu",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_20310999.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Çin Komünist Partisi tarafından Üç Yıllık Doğal Afet ya da Üç Yıllık Sıkıntı olarak anılır",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_38804380.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Toulouse gibi kasabalar toprak ticaretinden zenginleşmiştir",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_26011336.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yenilen pehlivan güreşe doymaz",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_32829792.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ne diye kuzunun karaciğerini ayrı satmazsınız aklım ermez",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28868299.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ömer kabahatli olan bir insan haliyle",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_37021144.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Galiba Puder olacaktı",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_37556446.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yolculara telaşla tavsiyelerde bulunuyorlar güya kendi kendilerine söyleniyorlarmış gibi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_29139457.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yaşları yirmiyi geçmeyen iki tane gelin kerpiç kulübenin birer köşesine yerleştiler",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_30629747.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ne berbat yağdı bu be",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_26950999.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Şu anda karşısında bütün hüviyetiyle Ömer vardı",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_37536098.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yavaş yavaş kitap okumaya çalışıyor ve bu işten zamanla daha çok zevk duyuyordum",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25543692.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bir sabah erkenden sokağa çıkıyordu yeğeninim önünde biraz durdu",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_35174096.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Herkesin ettiği yoluna gelir",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28915494.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Beni almadan ölen karısı iki oğul bırakmıştı biri seferberlikte kaldı birisi hapiste",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28877254.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ben de aynı fikirdeyim",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_35176402.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Fakat bunu yanardağ yapacak kudret bile bende var",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_26654364.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ona bir şeyler söylemek bir şeyler anlatmak izahat vermek istiyor fakat muvaffak olamıyordum",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28481346.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Kamyon içindeki yirmi iki müşterisiyle beraber sokağa çıkıp biraz ilerledikten sonra durdu",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_31785328.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bu hafta için yeni grevler planlanıyor",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_17350558.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Arı gibi eri olanın dağ kadar yeri olur",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_31785420.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ben köylülere Teşkilatı Esasiye Kanununu okumuş anlatmıştım",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_29068615.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ödemeler ticari bankalar tarafından yürütülüyor",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_21360972.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ayrı son haddine kadar ayrı mahluklardı",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_36874032.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Planlarda değişiklik oldu",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_30683077.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "O zaman bana yardım et",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28868552.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Sizi sergiye ilk geldiğiniz günden beri hatırlıyorum",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25543583.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bu kadar büyük işlere aklım ermez",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_31785396.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Başımı uzatıp baktım",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28877155.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Çoğu oyun taraflıdır",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25993549.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Anahtarlar bende olduğu için arkasından gittim",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_25576206.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ona yardım edebilir misin",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_29579461.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ve niçin kıskanmadığımı merak ediyorum",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_37622739.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Sözünü kestim Kaç yaşındasın",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28869162.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Mülteciler ise çok nadiren Türkçe konuşuyorlar",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_19650673.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Seni uzaklara götürecek bir tren",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_29139211.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Biz neden bahsediyoruz",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_32187759.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ne düşünüyorsun diye sordu",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_33996536.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "En iyi on Gişe yıldızı olarak art arda on iki yıl rekor kırdı",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_38719578.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Bunu lüzumsuz manasız buluyorlar",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_26530171.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Ben Kemale sokuldum bir elli kuruş daha uzatarak",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28914153.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "On sene arasam böyle kafa dengi bir arkadaş bulamazdım",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_28481697.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yalnız yüzünde ve ellerinde hoş olmayan bir yaşlık vardı",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_37536151.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Macide bu manzaranın kendisini kızdırmadığını görünce",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_34748083.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Zaten bu birkaç gün içinde Macideye karşı birdenbire kapanmıştı",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_36439281.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Yat şu kapının dibine",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_29139472.mp3"
+        ],
+        "language_id": 4
+      },
+      {
+        "messages": [
+          {
+            "content": "<audio>Generate the caption in Turkish:",
+            "role": "user"
+          },
+          {
+            "content": "Fakat gazinocu pek dolma yutar soyundan değildi",
+            "role": "assistant"
+          }
+        ],
+        "audios": [
+          "/home/wyz/data/TR/cv-corpus-17.0-2024-03-15/tr/clips/common_voice_tr_26530380.mp3"
+        ],
+        "language_id": 4
+      }
+  ]

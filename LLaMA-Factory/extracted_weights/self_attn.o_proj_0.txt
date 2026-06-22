@@ -1,0 +1,96 @@
+# count_for_decoder_layer 1
+0.4093, -0.1462, 0.3241, -0.3386, 0.0953
+
+# count_for_decoder_layer 2
+0.3217, 0.4438, 0.2305, 0.1619, -0.3531
+
+# count_for_decoder_layer 3
+-0.4029, 0.4401, 0.3205, -0.2640, -0.3827
+
+# count_for_decoder_layer 4
+-0.4997, -0.2603, 0.0588, 0.4488, 0.1228
+
+# count_for_decoder_layer 5
+0.0493, -0.1420, 0.3096, 0.2613, 0.0674
+
+# count_for_decoder_layer 6
+0.3436, -0.0805, -0.2635, -0.0392, -0.4280
+
+# count_for_decoder_layer 7
+0.2748, 0.2529, -0.4980, -0.4358, -0.2851
+
+# count_for_decoder_layer 8
+-0.0824, 0.4373, -0.4153, -0.3275, -0.1566
+
+# count_for_decoder_layer 9
+-0.3028, 0.4170, 0.2240, 0.4145, 0.0216
+
+# count_for_decoder_layer 10
+0.4020, 0.0959, 0.4132, -0.4979, 0.0171
+
+# count_for_decoder_layer 11
+0.4361, 0.2499, -0.3664, -0.3803, -0.3709
+
+# count_for_decoder_layer 12
+-0.1224, 0.2224, 0.0344, 0.4156, 0.2578
+
+# count_for_decoder_layer 13
+0.2838, 0.4016, -0.3056, 0.0417, 0.0813
+
+# count_for_decoder_layer 14
+-0.1019, 0.0246, -0.1915, -0.4514, -0.1379
+
+# count_for_decoder_layer 15
+-0.1802, -0.2157, -0.3535, 0.3563, -0.3384
+
+# count_for_decoder_layer 16
+-0.1350, -0.1254, 0.3876, -0.1759, 0.4208
+
+# count_for_decoder_layer 17
+0.4627, -0.1551, 0.2874, 0.2991, 0.1620
+
+# count_for_decoder_layer 18
+-0.3109, -0.0619, 0.1924, 0.1782, -0.3730
+
+# count_for_decoder_layer 19
+-0.1921, -0.5749, -0.5240, 0.1951, 0.4982
+
+# count_for_decoder_layer 20
+-0.0758, -0.5335, 0.3891, -0.4146, -0.1111
+
+# count_for_decoder_layer 21
+-0.1054, 0.2921, -0.5003, 0.4483, -0.0228
+
+# count_for_decoder_layer 22
+0.0444, 0.0292, 0.0962, 0.4241, -0.4239
+
+# count_for_decoder_layer 23
+-0.2783, -0.3946, 0.1310, 0.0865, -0.6019
+
+# count_for_decoder_layer 24
+0.0841, 0.0968, 0.0533, -0.5338, -0.3031
+
+# count_for_decoder_layer 25
+-0.1423, 0.0963, -0.4246, -0.0816, -0.2988
+
+# count_for_decoder_layer 26
+-0.2388, -0.4373, -0.4500, 0.3965, -0.4674
+
+# count_for_decoder_layer 27
+0.4734, 0.4534, 0.1282, 0.3461, 0.0154
+
+# count_for_decoder_layer 28
+-0.4955, 0.2580, -0.5481, -0.1122, 0.4238
+
+# count_for_decoder_layer 29
+-0.2327, 0.3854, 0.3081, -0.1629, 0.3688
+
+# count_for_decoder_layer 30
+-0.2940, -0.0068, 0.2890, 0.3833, -0.2067
+
+# count_for_decoder_layer 31
+0.0198, 0.3273, 0.1801, -0.4311, 0.4078
+
+# count_for_decoder_layer 32
+-0.2615, -0.1573, -0.4709, -0.3690, 0.2682
+

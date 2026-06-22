@@ -1,0 +1,54 @@
+============================================================
+🚀 开始多适配器多数据集评估任务（双数组实现）
+📅 开始时间: Tue Dec 16 15:43:47 CST 2025
+💻 GPU: 1
+📁 适配器数量: 1
+📊 数据集数量: 1
+🔧 微调类型映射:
+    - gatemtllora_mtl_5_Bnum_5_languageid_other_prompt → gatemtllora
+📝 日志文件: evaluation_log_20251216_154347.txt
+============================================================
+
+****************************************************************
+🔧 开始处理适配器: gatemtllora_mtl_5_Bnum_5_languageid_other_prompt (索引: 0)
+📂 路径: /home/wyz/projects/LLaMA-Factory/saves/qwen2_audio_instruct-7b/gatemtllora_mtl_5_Bnum_5_languageid_other_prompt
+⚙️ 微调类型: gatemtllora
+****************************************************************
+
+============================================================
+🔁 任务进度: 1/1
+📊 开始评估数据集: test_merged_languageid_Identify
+🔄 适配器: gatemtllora_mtl_5_Bnum_5_languageid_other_prompt
+⚙️ 微调类型: gatemtllora
+============================================================
+📂 输出目录: ./saves/results/gatemtllora_mtl_5_Bnum_5_languageid_other_prompt_gatemtllora_test_merged_languageid_Identify
+⏳ 开始时间: 15:43:47
+cli.py  command == Command.TRAIN
+[INFO|2025-12-16 15:44:14] llamafactory.hparams.parser:380 >> Process rank: 0, world size: 1, device: cuda:0, distributed training: False, compute dtype: None
+[INFO|2025-12-16 15:47:21] llamafactory.data.template:143 >> Add <|im_end|> to stop words.
+[INFO|2025-12-16 15:47:22] llamafactory.data.loader:143 >> Loading dataset test_merged_languageid_Identify.json...
+eval example:
+input_ids:
+[151644, 8948, 198, 2610, 525, 264, 10950, 17847, 13, 151645, 198, 151644, 872, 198, 151647, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151646, 151648, 28301, 1437, 279, 4128, 3034, 25, 151645, 198, 151644, 77091, 198]
+inputs:
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|audio_bos|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|AUDIO|><|audio_eos|>Identify the language ID:<|im_end|>
+<|im_start|>assistant
+
+label_ids:
+[18, 151645, 198]
+labels:
+3<|im_end|>
+
+[INFO|2025-12-16 15:55:51] llamafactory.model.model_utils.kv_cache:143 >> KV cache is enabled for faster generation.
+❌ 评估失败! 适配器: gatemtllora_mtl_5_Bnum_5_languageid_other_prompt, 类型: gatemtllora, 数据集: test_merged_languageid_Identify
+⏱️ 结束时间: 15:56:01
+============================================================
+
+============================================================
+🎉 所有评估任务已完成!
+📅 结束时间: Tue Dec 16 15:56:02 CST 2025
+✅ 成功任务: 1/1
+============================================================

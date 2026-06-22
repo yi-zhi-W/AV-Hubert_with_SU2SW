@@ -1,0 +1,56 @@
+### model
+model_name_or_path: /home/wyz/.cache/huggingface/hub/models--Qwen--Qwen2-Audio-7B-Instruct/snapshots/0a095220c30b7b31434169c3086508ef3ea5bf0a
+quantization_bit: 4  # choices: [8 (bnb/hqq/eetq), 4 (bnb/hqq), 3 (hqq), 2 (hqq)]
+quantization_method: bnb  # choices: [bnb, hqq, eetq]
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 8
+lora_target: all
+
+### dataset
+dataset: qa_train_dataset_add_yes_data_with_new_caption  # video: mllm_video_demo
+max_samples: 2000
+template: qwen2_audio
+cutoff_len: 4096
+overwrite_cache: true
+preprocessing_num_workers: 4
+dataloader_num_workers: 2
+
+### output
+output_dir: saves/test_qlora/qa_train_dataset_add_yes_data_with_new_caption
+logging_steps: 10
+save_steps: 5000
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: none  # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+learning_rate: 1.0e-4
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+
+### eval
+# val_size: 0.1
+# per_device_eval_batch_size: 1
+# eval_strategy: steps
+# eval_steps: 500
+# do_eval: True 
+# eval_dataset: qa_validation_dataset
+# evaluation_strategy: steps
+# eval_steps: 5000
+# per_device_eval_batch_size: 1
+# load_best_model_at_end: True
+# metric_for_best_model: eval_underwater_QA_val_loss
+# greater_is_better: False
+    

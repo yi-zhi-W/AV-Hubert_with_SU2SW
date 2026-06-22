@@ -1,0 +1,482 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "җанлиқлар тенидә ирсийәт болуп қалидиғини бәлгиләр болмастин бәлки бәлгиләрни контрол қилидиған ирсийәт факторлиридин ибарәт",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054016.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "бәк надир темиларни йоллайдикәнсиз сизниң темиңиз маңа бәк яқиду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054017.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "үчбулуңниң үч егизлики бир нуқтида кесишидиғанлиқини иккидин артуқ усулдин пайдилинип испатлаң",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054018.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "гепимни чүшәнмәй туруп яқ демәңа бала тақәтсизлинип варқиривәтти",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054019.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "филиппин сингапор малайшия һиндонезийә",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054056.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "қатнаш қораллири велисипит һарва аптобус мотсиклит машина пойиз айропилан парахот сал кемә",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054057.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "ғени униң көзлиридики сус һаяҗан вә мәстанилиқни байқап үлгүрди",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054058.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "немидәп қәшқәр йәкән хотән тәрәпләрдә инглиз вә афғанлар алдираш чепишип йүриду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054059.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "сиз чарчиған болсиңиз мәнчу",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054060.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "немидегән чирайлиқ бу мевә чевиләр гоя һазирла үзүлгәндәк көрүнидикән",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054091.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "әхмәтниң сөзи ахирлишар ахирлашмайла барлиқ балилар вилиқлап күлүшкә башлиди",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054092.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "нөвәттә у илмий тәтқиқат ишлири билән шуғулланмақта",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054093.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "қаға чоң бир түп дәрәхниң үстигә ува ясапту",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054094.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "у бу җандин тойдум дәп қолидики бәтинкини йәргә атти",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054095.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "сән қәстән шундақ қилдиң",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054178.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "вақит кетидикән адәмләр кетидикән әмма адәмгә тәсир қилған адәм вә ишлар хатирилинидикән",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054181.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "алий мәктәп чақириқини тапшурувалған вақтимда бәкму һаяҗанлинип кәттим",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054185.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "саҗийә болса сутуқ буғраханниң ярлиқи билән дияримизда қурулған тунҗи билим мәрипәт бөшүкиниң намидур",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054187.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "күч моменти қанчә чоң болса күчниң җисимни айланма һәрикәт қилдуруш роли шунчә чоң болиду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054190.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "иран ирақ сәуди әрәбистан йәмән оман әзәрбәйҗан түркийә",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054252.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "әгәр бир үчбулуңниң икки тәрипи тәң болса бу үчбулуңниң икки булуңи тәң болиду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054253.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "шунчилик тәнқидни көтүрәлмәй қалдиңму",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054254.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "әгәр мениң хисләтлик бойиқим болса қушларға җиқ дан сизип берәттим",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054256.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "икки күнлүк тәшвиқ вариқи тарқитиш паалийити утуқлуқ ахирлашти",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054322.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "хизмәт иши билән камандиропкиға чиқип кетип уни йоқлап болалмай толиму хиҗил идим",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054323.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "мевиләр чақмақ шәклидә ушшақ тоғрилип чойлиға селинип артуқ сүйи еқип болғучә сақитилиду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054325.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "тавузниң шипалиқ роли һәқиқәтән көп бу темидинму йәнә йеңи нәрсиләрни биливалдуқ",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054386.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "бу селиштуруш қизиқарлиқ икән мулаһизә қилишқа әрзийдикән муһим мәсилә оттуриға қоюлупту",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054389.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "һәсәл һәриси һәмраһлирини әгәштүрүп шаптул чечики нәшпүт чечики қича чечики бар йәргә кәлди",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054391.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "бир күни расттинла бөрә кәпту",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/UG/clips/common_voice_ug_35054394.mp3"
+    ],
+    "language_id": 0
+  }
+]

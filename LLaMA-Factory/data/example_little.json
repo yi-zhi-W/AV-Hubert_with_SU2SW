@@ -1,0 +1,530 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "бир нәрсигә пүтүн вуҗудуң билән берилсәң пүтүн дуня саңа ярдәм бериду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_36990048.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "яхшини махтисаң яришиду яманни махтисаң адишиду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_27683137.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "абдуқадир дамоллам мәрипәтпәрвәр тәрәққийпәрвәр бир зат иди",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_35080188.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "хораз чиллайду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_37806185.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "баһар кәлгәндә улар орманлиққа берипту бу чағда дәрәхләр бих сүрүп чечәклигәникән",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_34054880.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "сиз билән танса ойниғанда есимдә бәк қаптикәнсиз",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_27267081.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "бундақ келиштә әлвәттә җиқ мәниләр бар иди",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_30473230.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "билимсизгә төрдин орун тәгсә қариғинки төр пәгаһ пәгаһ болса төр һесаблиниду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_26347537.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "улар бирәр кишини мәсулийәт билән сөймәйду яки сөйдүрәлмәйду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_26188445.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "атуш билән пәйзиваттики йәр тәврәштә аилә зиянға учриди",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_35079446.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "яхшила көрсә немигә болса чидап кетиду яхши көрмисә бағлап қойсиму турмайду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_28488419.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "толийә дәрһал сомкидин ямғурлуқ чапанни елип анисиға бәрди",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_26187979.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Uyghur:",
+        "role": "user"
+      },
+      {
+        "content": "биз һәргизму у маймундәк әхмәқлиқ қилмаймиз дейишиң мумкин",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/UG/clips/common_voice_ug_26187981.mp3"
+    ],
+    "language_id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Албетте бул туура эмес кадам",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26431659.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Кийин ал судьяга телефонду көрсөттү",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439859.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Ага автоунаа тогуз жашар баланы сүзүп өлтүргөнү себеп болгон",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439860.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Түзмөк зыян келтирүүчү элементтер менен толтурулган",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439862.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Аялдарга күнүмдүк турмушуңарда мамилеңерди өзгөрткүлө",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439921.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Клооп баланы сабаганга шектелгендер менен байланыша алган жок",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439923.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Татыктуу артисттер пайда боло турган күндү күтүү гана калды",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439924.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Эгер жумушум жок болсо эмне кылат элем",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439925.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Штрафтар машина катталган адамга барып турат",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439927.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Биринчи кезекте баасына жана тейлөө мүмкүнчүлүгүнө караш керек",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439929.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Азия чемпионаты  континенттеги эң абройлуу турнир",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439943.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Башында аябай эле оор болду",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439945.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Бул факт абдан кубандырат жана бул алгачкы кадам  деди Исаков",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26439946.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Телефон чалууга мүмкүнчүлүгү болуш керек  дейт Багишбеков",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26440003.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Бул маселени биз жыл сайын сынга алып талкуулап келебиз",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26440007.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "УКМКнын маалыматы бир саат мурда чыкты",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26440008.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Биз принципиалдык түрдө украин товарларын ташыбайбыз",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26440023.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Биз халал колбасаны албайбыз",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26440025.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Кээде бут кийимдерди ит сүйрөп кетет экен",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26440049.mp3"
+    ],
+    "language_id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Kyrgyzstan:",
+        "role": "user"
+      },
+      {
+        "content": "Сот кандай чечим кабыл алаарын баарыбыз эле түшүнүп турсак керек",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/nfs4/wyz/KY/cv-corpus-15.0-2023-09-08/ky/clips/common_voice_ky_26440050.mp3"
+    ],
+    "language_id": 1
+  }
+]

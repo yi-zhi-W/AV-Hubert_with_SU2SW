@@ -1,0 +1,18 @@
+# 1. 共享的 A 矩阵计算 (一次大矩阵乘法)
+# x: [Batch, Din], A: [Din, R] -> h: [Batch, R]
+h = torch.matmul(x, lora_A_shared) 
+
+# 2. 准备 B 矩阵 (Gather)
+# 根据索引一次性把需要的 B 矩阵拿出来堆叠在一起
+# indices: [Batch], lora_B_all: [NumExperts, R, Dout]
+# selected_Bs: [Batch, R, Dout]
+selected_Bs = lora_B_all.index_select(0, indices)
+
+# 3. 批量矩阵乘法 (bmm) - 这是一个单一的 CUDA Kernel
+# h.unsqueeze(1): [Batch, 1, R]
+# selected_Bs:    [Batch, R, Dout]
+# result:         [Batch, 1, Dout]
+delta_w_x = torch.bmm(h.unsqueeze(1), selected_Bs).squeeze(1)
+
+# 4. 加回原输出
+output = base_output + delta_w_x

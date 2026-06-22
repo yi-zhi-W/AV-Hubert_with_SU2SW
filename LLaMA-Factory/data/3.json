@@ -1,0 +1,4578 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Həmçinin nəqliyyat daşımaları da onun əlindədir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40667936.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Likiya İşıq ölkəsi mənasını verir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40667938.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Abidə tunc dövrünə aid edilir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668229.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Adətən mütləq dərinliyinə görə ayrılır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668243.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Əslən Xızı rayonundan idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668441.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yumurta sonradan əlavə edilmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668472.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Stadionun dizaynı Toyota şəhərindəki Toyota Stadionunun inkişaf etdirilmiş versiyası idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668477.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Parkın ərazisində sahəsi üç hektar olan süni göl və şəlalə yaradılıb",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668501.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Küləyin sürəti və istiqaməti daima dəyişir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668529.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İkinci yürüşdə Şuşa qalasını ələ keçirməyə nail oldu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668549.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İbtidai təhsilini mollaxanada almışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679306.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İlk növbədə asanlıqla yuxuya getməyə kömək edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679337.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İqtisadiyyatda Sinqapur kapitalı üstünlük təşkil edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679347.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Üzvlər işlərini tamamilə müstəqil şəkildə aparırlar",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679348.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Daşkənd Dövlət Aqrar Universitetini və Moskvada Diplomatiya Akademiyasını bitirib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679361.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bəhreynin görməli yerlərindən sayılır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679386.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Rüstəm özü də gürcü şahzadəsi idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679478.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Meşə və kolluqlarda rast gəlinir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679490.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yeni Azərbaycan Partiyası Pirallahı Rayon Təşkilatı İdarə Heyətinin üzvüdür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679491.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Açıq dərsi təcrübəli müəllim aparır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679510.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hücumçu mövqeyində oynayır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679573.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Dörd kitabın birinə də yiyə durmadın",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679575.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onların üstün mədəniyyət və texnologiyaya sahib olmasının tanrılar kimi görünməsinə səbəb olduğu qeyd olunur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699336.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bir müddət sonra iki polis birlikdə axtarışa başlayır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699348.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Medalın arxa tərəfinin aşağı hissəsində medalın nömrəsi həkk olunmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699351.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu ikinci inqilabın nəticələri də birincisi kimi qanlı oldu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699364.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Döyüşlər quldarlıq tərəfdarı tərəfindən idarə olunan Merilend ştatının ərazilərində gedirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699376.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Abbasqulu Kazımzadə ilə birlikdə Bakıda kitab mağazası var idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40734684.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Şahi şəhərində yaşayan bacısının yanına köçən gələcək pəhləvan dəmirçi mağazasında işə düzəlir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40734685.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Nəticədə qiymətləri də aşağı düşür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40734819.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yaxın Şərqdə imzalanan ilk müqavilə xüsusiyyətinə malikdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40735004.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Abşeronda aprel ayından oktyabr ayınadək fəaliyyət göstərir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40799039.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Proqramlaşdırma dillərinin əksəriyyəti dəyişən konsepsiyasını dəstəkləyir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40799107.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Osmanlı ənənələrinə uyğun olaraq Bursada hakim təyin edilmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40862172.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu tarixdən Avropanın cənubunda Kordova xilafəti adlı islam dövləti yarandı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40862187.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Beynəlxalq münaqişələrin həllində norma və prinsiplər haqqında",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40862200.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onun birinci kitabına astronomik və fiziki müşahidələrə dair məlumatlar var idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249785.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onlarla da dil tapmaq asandır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249786.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Kəndin tam orta məktəbi vardır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249790.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Kəpənəyi iyul və avqustda uçur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249798.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ətrafı meşə ilə örtülüdür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249799.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hollandiya və Danimarkanın gənclərdən ibarət komandalarının yoldaşlıq görüşündə hər iki futbolçu sonradan meydana çıxdılar",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249800.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ömər bu təklifi rədd edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249801.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bunların çox hissəsi hətta Ginnesin rekordlar kitabına daxil edilmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249812.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Mədəniyyət öz təbiətinə görə tarixi mahiyyət kəsb edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249813.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Korinf kanalı vasitəsilə İon dənizinin Korinf körfəzi ilə birləşir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249814.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Burada ilkin şeirlərini və avtobioqrafik əsərini qələmə almış və onları mətbuatda çap etdirmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249816.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ticarətlə məşğul olmuşdu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249818.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Meyvəçilik də geniş yayılmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249819.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Aralarında böyük bir dostluq başladı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249820.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Rayonda quraq iqlim hakimdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249821.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qrupun adı azərbaycanca Dənizin uşaqları mənasına gəlir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249837.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Kənddə Borsunlu kənd məscidi dini icması fəaliyyət göstərir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249838.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bölgəni sonradan Krım xanlığı idarə edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249839.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Partiya lideri vəzifəsi ilə Vilson da müxalifət lideri oldu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249840.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İnsan cəmiyyətinin fəaliyyəti min illər ərzində təbii surətdə iqlimin dəyişməsinə gətirib çıxarmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249853.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Personaj Fransa Müqavimət Hərəkatında iştirak edən dan ilhamlanaraq yaradılmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249855.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yer üzündə pislik çıxarmaq istədiyi zaman bu ruhları göndərir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249857.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu bölgü forması keçid dövrü iqtisadiyyatının formalaşmasında əsas rol oynayır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249868.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qəsəbədə Bum qəsəbə məscidi dini icması fəaliyyət göstərir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249869.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu müddət ərzində də həmin planı tədricən yerinə yetirmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249870.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Şahın ölümündən sonra Misir prezidenti şah ailəsinə yaşamaları üçün saray ayırdı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249871.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Göygöl Dövlət qoruğunun iynəyarpaqlı meşələrində rast gəlinir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249907.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hazırda bu at növü kənd təsərrüfatı işlərində istifadə edilir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249908.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Fotoqraf ölümünə qədər Vogue moda jurnalına şəkillər çəkmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249910.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Aşıq Ziyad ailəli idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249912.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İlk əvvəllər hökumətə üç nazir rəhbərlik edirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249926.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Görünür şahın qoşun başçıları ilə şəhər nümayəndələri əlbir fəaliyyət göstərdilər",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249928.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Çox soyuq illərdə çiçək tumurcuqları donur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250020.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu ərazi əsas yolların üzərində yerləşirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250021.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onlar zülalların sintez mərkəzidir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250022.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu ay iyun ayında başlayıb iyul ayında sona çatır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250023.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu xalçaların əksəriyyəti toxunduğu kəndin adını daşıyır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250047.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Xarici ölkələrdə bir neçə məqaləsi nəşr olunmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250048.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qəbirlərin əksəriyyətinin yerüstü əlamətləri itmiş və baş daşları torpağın altında qalmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250049.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ancaq bu illərdə ona hər hansı bir ödəniş olduğu məlum deyil",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250050.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İqlimi kontinental mülayimdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250051.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bakı şəhərinin Yasamal rayonunda adına küçə var",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250059.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu növ sürətlə çökən çaylar və bitki örtüyünə malik suları üstün tutur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250060.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Həyat yoldaşı və övladı evdən çıxıb gedirlər",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250061.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Almaniyada dosent vəzifəsi Azərbaycandakı ilə oxşardır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250062.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu ehtiyac nə vaxt başlayır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250094.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Doğu Türküstan ilə sərhəd olan Qırğızıstan kiçik bir ölkə olduğu üçün Çinin təhdidi altındadır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250095.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu da informasiyanın saxlanma müddətinin çox kiçik olması anlamına gəlir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250096.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Səpələnmiş taxıl və pullar rifah və bolluq əlamətidir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250097.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bundan sonra Üzeyir Hacıbəyovun Leyli və Məcnun operası səhnəyə qoyulmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250114.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bəzən üçbucaq formasında olur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250115.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ovuc içi mənası da mövcuddur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250116.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Məqbərənin yaxınlığında ölməz şairin yaratdığı əsərləri tərənnüm edən tuncdan abidə yerləşir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729339.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bir çox uşaq televiziya proqramlarında aparıcı kimi çıxış edib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729341.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Xəzri zamanı Bakı və Sumqayıt şəhərlərinin havası zərərli qaz və tüstüdən təmizlənir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729342.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Böyük İpək yolunun bir qolu oradan keçirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729343.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu dildə yazılan proqram az yer tutur və tez yerinə yetirilir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729345.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yataqxana Minsk şəhərinin mərkəzində yerləşir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729346.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Tarixən Azərbaycana gələn səyyahlar və tacirlər də buradan özləri ilə xalça aparmışlar",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729348.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yeni birliyə nəzarət Türkmənistanın Mədəniyyət və Televiziya nazirliyinə tapşırılır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729350.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Düşərgədə həlak oldu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729351.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Birinci böyük ibadət zalı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729352.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ailənin üç oğlu var",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729353.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Teymur ona qarşı olmuş hücumların bir çoxuna rəhbərlik etmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729354.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Kəndin relyefi dağlıqdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729355.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Səsin əks olunmasından naviqasiya işlərində də istifadə olunur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729356.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Belarus milli futbol komandasına namizəd sayılır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729357.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İnqilabdan sonra asılmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729359.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Böyük ədədlər arasında sadə ədədi tapmaq üçün böyük sayda hesablama əməliyyatı həyata keçirmək lazımdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729362.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Su təminatı çaydan çəkilmiş saxsı borular vasitəsiylə həyata keçirilirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729369.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onlarla və yüzlərlə fərddən ibarət dəstələrə rast gəlinir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729371.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bakı Kooperativ Texnikumunda təhsilini başa vurmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729373.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Keçmiş adı Qəhrəmanlı olmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729375.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu kitabla bağlı maraqlı bir fakt vardır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729376.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İldə iki nəsil verir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729379.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yayda yağın nadir hallarda yağır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729380.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Sovet kinosunda ilk dəfə olaraq quraşdırılmış səhnələri çəkib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729381.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Adətən buxarlanma dedikdə suyun buxara çevrilməsi başa düşülür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729382.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qəsəbə dəniz sahilində yerləşdiyi üçün belə adlandırılmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729383.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Son nəticədə Hacı Murad işğalçıların tərəfinə keçir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729384.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Dəfələrlə beynəlxalq turnirlərin qalibi olub",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729385.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Proses yüksək temperatur və təzyiq altında gedir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729386.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hesabı ilə qalib gələrək dünya çempionu adını qazanır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729387.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Burada saman qarışığı olan çiy kərpicdən tikilmiş dairəvi planlı yaşayış binasının qalıqları aşkar olunmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729388.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onun oğlu Məlik Məhəmməd xanın hakimiyyəti dövründə Bakı xanlığı müstəqilliyini itirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729389.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ona bu işdə Hülakü xan yardım etmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729390.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu reallığın əsasını sosial faktlar təşkil edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729391.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hindistanda bir neçə dəfə iki aylıq rəqs kurslarında iştirak edib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729392.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Astara rayonunda dəfn olunub",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729393.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ondan bir oğulu olar",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729394.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yer Ayla Günəşin arasındadır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729395.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Buna baxmayaraq oğlu haqqında az məlumata sahibdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729396.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Müxtəlif mədrəsələrdə xidmət etməsinin ardından qazı olaraq təyinat aldı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729397.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Təşkilatın hədəfi imperatorun mütləq hakimiyyətini təmin etməkdən ibarət olmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729398.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Potsdam şəhərində anadan olmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729399.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onu və bütün yaxın ətrafını həbs ediblər",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729400.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Komandamız ilk görüşünü Ukrayna komandasına qarşı keçirmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729401.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Gəmidən Karib dənizini səyahət etmək və digər gəmilərlə döyüşmək üçün istifadə ediləcəkdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729402.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Və Ədəbiyyat Muzeyinin direktor müavini təyin edildi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729408.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Rusiya Yazıçılar Birliyinin üzvüdür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729409.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Verdiyini mənim üçün bərəkətli et",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729410.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bir il sonra Pekində tək çıxışda qalib gəldi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729411.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Alimlər Qatların məzmununun çox emosional və insani ruhda olduğunu qeyd edirlər",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729412.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ölkə rəhbərliyi mövcud problemə Azərbaycan xalqının münasibətini bilmişdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729428.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Körfəzin sahilində Türkmənbaşı limanı yerləşir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729429.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu atomların hər birinin Yaradıcısı Allahdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729430.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qaraçı karvansarası əhəng daşından tikilib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729431.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Həmçinin nəqliyyat daşımaları da onun əlindədir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40667936.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Likiya İşıq ölkəsi mənasını verir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40667938.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Abidə tunc dövrünə aid edilir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668229.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Adətən mütləq dərinliyinə görə ayrılır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668243.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Əslən Xızı rayonundan idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668441.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yumurta sonradan əlavə edilmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668472.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Stadionun dizaynı Toyota şəhərindəki Toyota Stadionunun inkişaf etdirilmiş versiyası idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668477.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Parkın ərazisində sahəsi üç hektar olan süni göl və şəlalə yaradılıb",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668501.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Küləyin sürəti və istiqaməti daima dəyişir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668529.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İkinci yürüşdə Şuşa qalasını ələ keçirməyə nail oldu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40668549.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İbtidai təhsilini mollaxanada almışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679306.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İlk növbədə asanlıqla yuxuya getməyə kömək edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679337.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İqtisadiyyatda Sinqapur kapitalı üstünlük təşkil edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679347.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Üzvlər işlərini tamamilə müstəqil şəkildə aparırlar",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679348.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Daşkənd Dövlət Aqrar Universitetini və Moskvada Diplomatiya Akademiyasını bitirib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679361.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bəhreynin görməli yerlərindən sayılır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679386.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Rüstəm özü də gürcü şahzadəsi idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679478.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Meşə və kolluqlarda rast gəlinir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679490.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yeni Azərbaycan Partiyası Pirallahı Rayon Təşkilatı İdarə Heyətinin üzvüdür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679491.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Açıq dərsi təcrübəli müəllim aparır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679510.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hücumçu mövqeyində oynayır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679573.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Dörd kitabın birinə də yiyə durmadın",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40679575.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onların üstün mədəniyyət və texnologiyaya sahib olmasının tanrılar kimi görünməsinə səbəb olduğu qeyd olunur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699336.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bir müddət sonra iki polis birlikdə axtarışa başlayır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699348.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Medalın arxa tərəfinin aşağı hissəsində medalın nömrəsi həkk olunmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699351.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu ikinci inqilabın nəticələri də birincisi kimi qanlı oldu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699364.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Döyüşlər quldarlıq tərəfdarı tərəfindən idarə olunan Merilend ştatının ərazilərində gedirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40699376.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Abbasqulu Kazımzadə ilə birlikdə Bakıda kitab mağazası var idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40734684.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Şahi şəhərində yaşayan bacısının yanına köçən gələcək pəhləvan dəmirçi mağazasında işə düzəlir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40734685.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Nəticədə qiymətləri də aşağı düşür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40734819.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yaxın Şərqdə imzalanan ilk müqavilə xüsusiyyətinə malikdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40735004.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Abşeronda aprel ayından oktyabr ayınadək fəaliyyət göstərir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40799039.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Proqramlaşdırma dillərinin əksəriyyəti dəyişən konsepsiyasını dəstəkləyir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40799107.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Osmanlı ənənələrinə uyğun olaraq Bursada hakim təyin edilmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40862172.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu tarixdən Avropanın cənubunda Kordova xilafəti adlı islam dövləti yarandı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40862187.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Beynəlxalq münaqişələrin həllində norma və prinsiplər haqqında",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_40862200.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onun birinci kitabına astronomik və fiziki müşahidələrə dair məlumatlar var idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249785.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onlarla da dil tapmaq asandır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249786.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Kəndin tam orta məktəbi vardır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249790.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Kəpənəyi iyul və avqustda uçur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249798.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ətrafı meşə ilə örtülüdür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249799.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hollandiya və Danimarkanın gənclərdən ibarət komandalarının yoldaşlıq görüşündə hər iki futbolçu sonradan meydana çıxdılar",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249800.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ömər bu təklifi rədd edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249801.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bunların çox hissəsi hətta Ginnesin rekordlar kitabına daxil edilmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249812.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Mədəniyyət öz təbiətinə görə tarixi mahiyyət kəsb edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249813.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Korinf kanalı vasitəsilə İon dənizinin Korinf körfəzi ilə birləşir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249814.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Burada ilkin şeirlərini və avtobioqrafik əsərini qələmə almış və onları mətbuatda çap etdirmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249816.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ticarətlə məşğul olmuşdu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249818.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Meyvəçilik də geniş yayılmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249819.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Aralarında böyük bir dostluq başladı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249820.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Rayonda quraq iqlim hakimdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249821.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qrupun adı azərbaycanca Dənizin uşaqları mənasına gəlir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249837.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Kənddə Borsunlu kənd məscidi dini icması fəaliyyət göstərir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249838.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bölgəni sonradan Krım xanlığı idarə edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249839.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Partiya lideri vəzifəsi ilə Vilson da müxalifət lideri oldu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249840.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İnsan cəmiyyətinin fəaliyyəti min illər ərzində təbii surətdə iqlimin dəyişməsinə gətirib çıxarmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249853.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Personaj Fransa Müqavimət Hərəkatında iştirak edən dan ilhamlanaraq yaradılmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249855.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yer üzündə pislik çıxarmaq istədiyi zaman bu ruhları göndərir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249857.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu bölgü forması keçid dövrü iqtisadiyyatının formalaşmasında əsas rol oynayır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249868.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qəsəbədə Bum qəsəbə məscidi dini icması fəaliyyət göstərir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249869.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu müddət ərzində də həmin planı tədricən yerinə yetirmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249870.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Şahın ölümündən sonra Misir prezidenti şah ailəsinə yaşamaları üçün saray ayırdı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249871.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Göygöl Dövlət qoruğunun iynəyarpaqlı meşələrində rast gəlinir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249907.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hazırda bu at növü kənd təsərrüfatı işlərində istifadə edilir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249908.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Fotoqraf ölümünə qədər Vogue moda jurnalına şəkillər çəkmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249910.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Aşıq Ziyad ailəli idi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249912.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İlk əvvəllər hökumətə üç nazir rəhbərlik edirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249926.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Görünür şahın qoşun başçıları ilə şəhər nümayəndələri əlbir fəaliyyət göstərdilər",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35249928.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Çox soyuq illərdə çiçək tumurcuqları donur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250020.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu ərazi əsas yolların üzərində yerləşirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250021.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onlar zülalların sintez mərkəzidir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250022.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu ay iyun ayında başlayıb iyul ayında sona çatır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250023.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu xalçaların əksəriyyəti toxunduğu kəndin adını daşıyır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250047.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Xarici ölkələrdə bir neçə məqaləsi nəşr olunmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250048.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qəbirlərin əksəriyyətinin yerüstü əlamətləri itmiş və baş daşları torpağın altında qalmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250049.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ancaq bu illərdə ona hər hansı bir ödəniş olduğu məlum deyil",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250050.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İqlimi kontinental mülayimdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250051.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bakı şəhərinin Yasamal rayonunda adına küçə var",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250059.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu növ sürətlə çökən çaylar və bitki örtüyünə malik suları üstün tutur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250060.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Həyat yoldaşı və övladı evdən çıxıb gedirlər",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250061.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Almaniyada dosent vəzifəsi Azərbaycandakı ilə oxşardır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250062.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu ehtiyac nə vaxt başlayır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250094.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Doğu Türküstan ilə sərhəd olan Qırğızıstan kiçik bir ölkə olduğu üçün Çinin təhdidi altındadır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250095.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu da informasiyanın saxlanma müddətinin çox kiçik olması anlamına gəlir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250096.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Səpələnmiş taxıl və pullar rifah və bolluq əlamətidir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250097.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bundan sonra Üzeyir Hacıbəyovun Leyli və Məcnun operası səhnəyə qoyulmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250114.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bəzən üçbucaq formasında olur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250115.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ovuc içi mənası da mövcuddur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_35250116.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Məqbərənin yaxınlığında ölməz şairin yaratdığı əsərləri tərənnüm edən tuncdan abidə yerləşir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729339.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bir çox uşaq televiziya proqramlarında aparıcı kimi çıxış edib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729341.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Xəzri zamanı Bakı və Sumqayıt şəhərlərinin havası zərərli qaz və tüstüdən təmizlənir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729342.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Böyük İpək yolunun bir qolu oradan keçirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729343.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu dildə yazılan proqram az yer tutur və tez yerinə yetirilir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729345.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yataqxana Minsk şəhərinin mərkəzində yerləşir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729346.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Tarixən Azərbaycana gələn səyyahlar və tacirlər də buradan özləri ilə xalça aparmışlar",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729348.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yeni birliyə nəzarət Türkmənistanın Mədəniyyət və Televiziya nazirliyinə tapşırılır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729350.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Düşərgədə həlak oldu",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729351.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Birinci böyük ibadət zalı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729352.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ailənin üç oğlu var",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729353.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Teymur ona qarşı olmuş hücumların bir çoxuna rəhbərlik etmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729354.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Kəndin relyefi dağlıqdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729355.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Səsin əks olunmasından naviqasiya işlərində də istifadə olunur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729356.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Belarus milli futbol komandasına namizəd sayılır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729357.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İnqilabdan sonra asılmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729359.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Böyük ədədlər arasında sadə ədədi tapmaq üçün böyük sayda hesablama əməliyyatı həyata keçirmək lazımdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729362.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Su təminatı çaydan çəkilmiş saxsı borular vasitəsiylə həyata keçirilirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729369.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onlarla və yüzlərlə fərddən ibarət dəstələrə rast gəlinir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729371.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bakı Kooperativ Texnikumunda təhsilini başa vurmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729373.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Keçmiş adı Qəhrəmanlı olmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729375.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu kitabla bağlı maraqlı bir fakt vardır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729376.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "İldə iki nəsil verir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729379.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yayda yağın nadir hallarda yağır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729380.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Sovet kinosunda ilk dəfə olaraq quraşdırılmış səhnələri çəkib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729381.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Adətən buxarlanma dedikdə suyun buxara çevrilməsi başa düşülür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729382.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qəsəbə dəniz sahilində yerləşdiyi üçün belə adlandırılmışdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729383.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Son nəticədə Hacı Murad işğalçıların tərəfinə keçir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729384.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Dəfələrlə beynəlxalq turnirlərin qalibi olub",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729385.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Proses yüksək temperatur və təzyiq altında gedir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729386.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hesabı ilə qalib gələrək dünya çempionu adını qazanır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729387.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Burada saman qarışığı olan çiy kərpicdən tikilmiş dairəvi planlı yaşayış binasının qalıqları aşkar olunmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729388.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onun oğlu Məlik Məhəmməd xanın hakimiyyəti dövründə Bakı xanlığı müstəqilliyini itirdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729389.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ona bu işdə Hülakü xan yardım etmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729390.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu reallığın əsasını sosial faktlar təşkil edir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729391.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Hindistanda bir neçə dəfə iki aylıq rəqs kurslarında iştirak edib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729392.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Astara rayonunda dəfn olunub",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729393.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ondan bir oğulu olar",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729394.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Yer Ayla Günəşin arasındadır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729395.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Buna baxmayaraq oğlu haqqında az məlumata sahibdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729396.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Müxtəlif mədrəsələrdə xidmət etməsinin ardından qazı olaraq təyinat aldı",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729397.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Təşkilatın hədəfi imperatorun mütləq hakimiyyətini təmin etməkdən ibarət olmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729398.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Potsdam şəhərində anadan olmuşdur",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729399.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Onu və bütün yaxın ətrafını həbs ediblər",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729400.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Komandamız ilk görüşünü Ukrayna komandasına qarşı keçirmişdir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729401.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Gəmidən Karib dənizini səyahət etmək və digər gəmilərlə döyüşmək üçün istifadə ediləcəkdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729402.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Və Ədəbiyyat Muzeyinin direktor müavini təyin edildi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729408.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Rusiya Yazıçılar Birliyinin üzvüdür",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729409.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Verdiyini mənim üçün bərəkətli et",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729410.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bir il sonra Pekində tək çıxışda qalib gəldi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729411.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Alimlər Qatların məzmununun çox emosional və insani ruhda olduğunu qeyd edirlər",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729412.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Ölkə rəhbərliyi mövcud problemə Azərbaycan xalqının münasibətini bilmişdi",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729428.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Körfəzin sahilində Türkmənbaşı limanı yerləşir",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729429.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Bu atomların hər birinin Yaradıcısı Allahdır",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729430.mp3"
+    ],
+    "language_id": 3
+  },
+  {
+    "messages": [
+      {
+        "content": "<audio>Generate the caption in Azeri:",
+        "role": "user"
+      },
+      {
+        "content": "Qaraçı karvansarası əhəng daşından tikilib",
+        "role": "assistant"
+      }
+    ],
+    "audios": [
+      "/home/wyz/data/AZ/cv-corpus-21.0-2025-03-14/az/clips/common_voice_az_36729431.mp3"
+    ],
+    "language_id": 3
+  }
+]

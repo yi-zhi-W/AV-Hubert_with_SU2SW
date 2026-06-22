@@ -1,0 +1,62 @@
+### model
+model_name_or_path: /home/wyz/.cache/huggingface/hub/models--Qwen--Qwen2-Audio-7B-Instruct/snapshots/0a095220c30b7b31434169c3086508ef3ea5bf0a
+trust_remote_code: true
+# resume_from_checkpoint: /home/wyz/projects/LLaMA-Factory/saves/underwater_0307/rank_16_qa_train_dataset_add_yes_data_with_caption/checkpoint-10000
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 4
+lora_target: all
+# deepspeed: examples/deepspeed/ds_z3_offload_config.json
+# deepspeed: /home/wyz/projects/LLaMA-Factory/examples/deepspeed/ds_z3_config.json
+
+
+### dataset
+dataset: caption_train_V2  # video: mllm_video_demo
+disable_shuffling: true
+template: qwen2_audio
+cutoff_len: 32768
+overwrite_cache: true
+preprocessing_num_workers: 4
+dataloader_num_workers: 2
+
+# `ddp_find_unused_parameters` needs to be set as False for LoRA in DDP training.
+
+# ddp_find_unused_parameters: false
+
+### output
+output_dir: saves/underwater_0307/rank_4_caption_train_V2
+logging_steps: 10
+save_steps: 5000
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: none  # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+learning_rate: 1.0e-4
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true    #  不开半精度是33g
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+
+### eval
+# val_size: 0.1
+# per_device_eval_batch_size: 1
+# eval_strategy: steps
+# eval_steps: 500
+# do_eval: True 
+# eval_dataset: qa_validation_dataset
+# evaluation_strategy: steps
+# eval_steps: 5000
+# per_device_eval_batch_size: 1
+# load_best_model_at_end: True
+# metric_for_best_model: eval_underwater_QA_val_loss
+# greater_is_better: False
+    
